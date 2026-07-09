@@ -16,6 +16,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🛠️ TechCare | Device repair booking Android app | Java, SQLite |
+| 📚 Little Book Haven | Bookstore management system with cashier & manager roles | Java, Swing |
 
 ## 📫 Connect With Me
 - GitHub: [@RashidhCodes](https://github.com/RashidhCodes)
