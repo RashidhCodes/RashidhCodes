@@ -17,6 +17,7 @@
 |---------|-------------|------|
 | 🛠️ TechCare | Device repair booking Android app | Java, SQLite |
 | 📚 Little Book Haven | Bookstore management system with cashier & manager roles | Java, Swing |
+| 🏥 MediCare Plus | Hospital management web app with patient/doctor/admin dashboards & appointment booking | PHP, MySQL, HTML, CSS |
 
 ## 📫 Connect With Me
 - GitHub: [@RashidhCodes](https://github.com/RashidhCodes)
