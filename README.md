@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student
 - 📱 Android Developer
 - 🌍 Based in Sri Lanka
-- 🔭 Currently working on **TechCare** — a device repair booking app
+- 💻 Built projects in Java, PHP, and Android development
 
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
